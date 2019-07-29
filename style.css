@@ -1,1 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300italic,500);
 
+* {
+    margin: 0px;
+    padding: 0px;
+   }
+
+body {
+  background: rgb(18, 181, 231);
+}
+
+.container {
+  /*overflow property specifies what happens if content overflows an element's box*/
+  overflow: hidden;
+  text-align: center;
+  background: -moz-linear-gradient(top,  rgba(169,228,247,1) 0%, rgba(15,180,231,1) 
+
+
+}
