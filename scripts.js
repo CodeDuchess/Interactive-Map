@@ -5,7 +5,7 @@ function precarica(img) {
   }
   //precarica means pre-load              
   precarica([
-    'http://www.sarabianchi.it/code-images/mappa-interattiva/img/map-yellow.png',
+    'https://www.sarabianchi.it/code-images/mappa-interattiva/img/map-yellow.png',
 				'https://www.sarabianchi.it/code-images/mappa-interattiva/img/map-red.png',
 				'https://www.sarabianchi.it/code-images/mappa-interattiva/img/map-pink.png',
 				'https://www.sarabianchi.it/code-images/mappa-interattiva/img/map-green.png',
