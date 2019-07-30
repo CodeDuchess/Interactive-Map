@@ -14,7 +14,7 @@ function precarica(img) {
     /* jQuery for external title */
     jQuery(document).ready(function () {
         $('.title-blue').mouseout(function() {
-            $(#map").attr('src', 'https://www.sarabianchi.it/code-images/mappa-interattiva/img/map-original.png');
+            $('#map').attr('src', 'https://www.sarabianchi.it/code-images/mappa-interattiva/img/map-original.png');
         }),
 			$('.title-blue').mouseover( function(){
 				$("#map").attr('src', 'http://www.sarabianchi.it/code-images/mappa-interattiva/img/map-blue.png');
